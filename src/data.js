@@ -2,7 +2,7 @@ export const cryptoData = {
   result: [
     {
       id: 'bitcoin',
-      icon: 'https://static.coinstats.app/coins/1650455588819.png',
+      icon: './icon/1650455588819.png',
       name: 'Bitcoin',
       symbol: 'BTC',
       rank: 1,
@@ -30,7 +30,7 @@ export const cryptoData = {
     },
     {
       id: 'ethereum',
-      icon: 'https://static.coinstats.app/coins/1650455629727.png',
+      icon: './icon/1650455629727.png',
       name: 'Ethereum',
       symbol: 'ETH',
       rank: 2,
@@ -60,7 +60,7 @@ export const cryptoData = {
     },
     {
       id: 'tether',
-      icon: 'https://static.coinstats.app/coins/1650455771843.png',
+      icon: './icon/1650455771843.png',
       name: 'Tether',
       symbol: 'USDT',
       rank: 3,
@@ -94,7 +94,7 @@ export const cryptoData = {
     },
     {
       id: 'binance-coin',
-      icon: 'https://static.coinstats.app/coins/1666608145347.png',
+      icon: './icon/1666608145347.png',
       name: 'BNB',
       symbol: 'BNB',
       rank: 4,
@@ -126,7 +126,7 @@ export const cryptoData = {
     },
     {
       id: 'solana',
-      icon: 'https://static.coinstats.app/coins/1701234596791.png',
+      icon: './icon/1701234596791.png',
       name: 'Solana',
       symbol: 'SOL',
       rank: 5,
@@ -154,7 +154,7 @@ export const cryptoData = {
     },
     {
       id: 'ripple',
-      icon: 'https://static.coinstats.app/coins/XRPdnqGJ.png',
+      icon: './icon/XRPdnqGJ.png',
       name: 'XRP',
       symbol: 'XRP',
       rank: 6,
@@ -182,7 +182,7 @@ export const cryptoData = {
     },
     {
       id: 'usd-coin',
-      icon: 'https://static.coinstats.app/coins/1650455825065.png',
+      icon: './icon/1650455825065.png',
       name: 'USDC',
       symbol: 'USDC',
       rank: 7,
@@ -215,7 +215,7 @@ export const cryptoData = {
     },
     {
       id: 'staked-ether',
-      icon: 'https://static.coinstats.app/coins/staked-etheruqt.png',
+      icon: './icon/staked-etheruqt.png',
       name: 'Lido Staked Ether',
       symbol: 'STETH',
       rank: 8,
@@ -241,7 +241,7 @@ export const cryptoData = {
     },
     {
       id: 'cardano',
-      icon: 'https://static.coinstats.app/coins/CardanojXddT.png',
+      icon: './icon/CardanojXddT.png',
       name: 'Cardano',
       symbol: 'ADA',
       rank: 9,
@@ -271,7 +271,7 @@ export const cryptoData = {
     },
     {
       id: 'avalanche-2',
-      icon: 'https://static.coinstats.app/coins/1675667082696.png',
+      icon: './icon/1675667082696.png',
       name: 'Avalanche',
       symbol: 'AVAX',
       rank: 10,
@@ -299,7 +299,7 @@ export const cryptoData = {
     },
     {
       id: 'dogecoin',
-      icon: 'https://static.coinstats.app/coins/DogecoinIZai5.png',
+      icon: './icon/DogecoinIZai5.png',
       name: 'Dogecoin',
       symbol: 'DOGE',
       rank: 11,
@@ -326,7 +326,7 @@ export const cryptoData = {
     },
     {
       id: 'polkadot',
-      icon: 'https://static.coinstats.app/coins/1641284295533.png',
+      icon: './icon/1641284295533.png',
       name: 'Polkadot',
       symbol: 'DOT',
       rank: 12,
@@ -354,7 +354,7 @@ export const cryptoData = {
     },
     {
       id: 'tron',
-      icon: 'https://static.coinstats.app/coins/TRONxJljY.png',
+      icon: './icon/TRONxJljY.png',
       name: 'TRON',
       symbol: 'TRX',
       rank: 13,
@@ -382,7 +382,7 @@ export const cryptoData = {
     },
     {
       id: 'chainlink',
-      icon: 'https://static.coinstats.app/coins/ChainLink0JkIR.png',
+      icon: './icon/ChainLink0JkIR.png',
       name: 'Chainlink',
       symbol: 'LINK',
       rank: 14,
@@ -415,7 +415,7 @@ export const cryptoData = {
     },
     {
       id: 'matic-network',
-      icon: 'https://static.coinstats.app/coins/1686037797025.png',
+      icon: './icon/1686037797025.png',
       name: 'Polygon',
       symbol: 'MATIC',
       rank: 15,
@@ -448,7 +448,7 @@ export const cryptoData = {
     },
     {
       id: 'wrapped-bitcoin',
-      icon: 'https://static.coinstats.app/coins/wrapped-bitcoinoc1.png',
+      icon: './icon/wrapped-bitcoinoc1.png',
       name: 'Wrapped Bitcoin',
       symbol: 'WBTC',
       rank: 16,
@@ -481,7 +481,7 @@ export const cryptoData = {
     },
     {
       id: 'internet-computer',
-      icon: 'https://static.coinstats.app/coins/internet-computer4kw.png',
+      icon: './icon/internet-computer4kw.png',
       name: 'Internet Computer',
       symbol: 'ICP',
       rank: 17,
@@ -505,7 +505,7 @@ export const cryptoData = {
     },
     {
       id: 'shiba-inu',
-      icon: 'https://static.coinstats.app/coins/1646234478930.png',
+      icon: './icon/1646234478930.png',
       name: 'Shiba Inu',
       symbol: 'SHIB',
       rank: 18,
@@ -531,9 +531,9 @@ export const cryptoData = {
         'https://ethereum.dex.guru/token/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce',
       ],
     },
-    {
+     {
       id: 'dai',
-      icon: 'https://static.coinstats.app/coins/1579614462667.png',
+      icon: './icon/1579614462667.png',
       name: 'Dai',
       symbol: 'DAI',
       rank: 19,
@@ -568,7 +568,7 @@ export const cryptoData = {
     },
     {
       id: 'litecoin',
-      icon: 'https://static.coinstats.app/coins/LitecoinGiD2Q.png',
+      icon: './icon/LitecoinGiD2Q.png',
       name: 'Litecoin',
       symbol: 'LTC',
       rank: 20,
